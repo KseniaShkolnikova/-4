@@ -1,0 +1,3 @@
+﻿  ConsoleApplication4.cpp
+C:\Users\user1\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(23,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  ConsoleApplication4.vcxproj -> C:\Users\user1\source\repos\ConsoleApplication4\x64\Debug\ConsoleApplication4.exe
